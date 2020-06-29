@@ -6,6 +6,6 @@
 
 ![Image](https://github.com/zahiruddinzainal/ClientServerJAVA/blob/master/screenshots/server.PNG)
 
-### 1) Client side
+### 2) Client side
 
 ![Image](https://github.com/zahiruddinzainal/ClientServerJAVA/blob/master/screenshots/client.PNG)
